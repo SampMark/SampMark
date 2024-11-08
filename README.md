@@ -4,7 +4,7 @@
 - 💞️ Busco colaborar em pesquisas e projetos que envolvam Ciência de Dados, Ciências Econômicas e Avaliação de Políticas Públicas, análises econométricas (matemática e estatística) para explicar fenômenos.
 - 📫 Você pode me contatar por e-mail: marcus.sampaio@ifrn.edu.br
 - 🎓 Lattes: http://lattes.cnpq.br/8602364794945434
--⚡ Curiosidade: adoro cães 🐶 e sou apaixonado por caminhadas em meio a natureza.
+- ⚡ Curiosidade: adoro cães 🐶 e sou apaixonado por caminhadas em meio a natureza.
 ---
 
 - 👋 Hello! I'm @SampMark from Brazil, an economist at IFRN
