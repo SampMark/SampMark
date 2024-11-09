@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @SampMark do Brasil, economista no IFRN.
-- 👀 Sou entusiasta e tenho grande interesse em estudos de Ciência de Dados e Analytics, com foco em análises exploratórias de dados e modelagnes usando machine learn.
+- 👀 Sou entusiasta e tenho grande interesse em estudos no campo de conhecimento da Data Science and Analytics, com foco em análises exploratórias de dados e modelagnes usando machine learn.
 - 🌱 Atualmente, estou aprendendo a programar em Python e aprimorando minhas habilidades em ferramentas e técnicas de visualização de dados, machine learn, modelos preditivos
 - 💞️ Busco colaborar em pesquisas e projetos que envolvam Ciência de Dados, Ciências Econômicas e Avaliação de Políticas Públicas, análises econométricas (matemática e estatística) para explicar fenômenos.
 - 📫 Você pode me contatar por e-mail: marcus.sampaio@ifrn.edu.br
