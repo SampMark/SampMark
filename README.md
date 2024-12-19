@@ -5,6 +5,8 @@
 - 📫 Você pode me contatar por e-mail: marcus.sampaio@ifrn.edu.br
 - 🎓 Lattes: http://lattes.cnpq.br/8602364794945434
 - ⚡ Curiosidade: adoro cães 🐶 e sou apaixonado por caminhadas em meio a natureza.
+![u7922314295_A_realistic_photograph_of_a_golden-coated_Golden__0de8a815-84fc-492e-a7b8-07dee82513bb_0](https://github.com/user-attachments/assets/19bb7a3e-b1d7-4a4c-b924-fe1839bb2128)
+
 ---
 
 - 👋 Hello! I'm @SampMark from Brazil, an economist at IFRN
