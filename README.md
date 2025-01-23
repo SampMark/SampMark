@@ -1,8 +1,8 @@
-- 👋 Olá, eu sou @SampMark do Brasil, economista no IFRN.
+- 👋 Olá! Me chamo Marcus Sampaio, sou economista lotado na Reitoria do [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)](https://portal.ifrn.edu.br/).
 - 👀 Sou entusiasta e tenho grande interesse em estudos no campo de conhecimento da Data Science and Analytics, com foco em análises exploratórias de dados e modelagnes usando machine learn.
-- 🌱 Atualmente, estou aprendendo a programar em Python e aprimorando minhas habilidades em ferramentas e técnicas de visualização de dados, machine learn, modelos preditivos
-- 💞️ Busco colaborar em pesquisas e projetos que envolvam Ciência de Dados, Ciências Econômicas e Avaliação de Políticas Públicas, análises econométricas (matemática e estatística) para explicar fenômenos.
-- 📫 Você pode me contatar por e-mail: marcus.sampaio@ifrn.edu.br
+- 🌱 Atualmente, estou aprendendo a programar em Python de modo a aprimorar minhas habilidades em ferramentas e técnicas de visualização de dados, machine learning, deep learning, modelos preditivos, séries temporais, ect.
+- 💞️ Busco colaborar em pesquisas e projetos que envolvam Ciência de Dados, Ciências Econômicas e Avaliação de Políticas Públicas, análises econométricas (matemática e estatística) de modo a estudar fenômenos e problemas complexos.
+- 📫 Meu e-mail: <marcus.sampaio@ifrn.edu.br>
 - 🎓 Lattes: http://lattes.cnpq.br/8602364794945434
 - ⚡ Curiosidade: adoro cães 🐶, este é meu golden retriever surfando com IA, sou apaixonado por caminhadas em meio a natureza.
   
@@ -10,8 +10,8 @@
 
 ---
 
-- 👋 Hello! I'm @SampMark from Brazil, an economist at IFRN
-- 👀 I'm passionate about Data Science and Analytics, focusing on exploratory data analysis and machine learning modeling
+- 👋 Hello! I'm @SampMark from Brazil, an economist at [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte](https://portal.ifrn.edu.br/).
+- 👀 I'm passionate about Data Science and Analytics, focusing on exploratory data analysis and machine learning modeling.
 - 🌱 Currently, I'm learning Python programming and enhancing my skills in data visualization tools and techniques, machine learning, and predictive models.
 - 💞️ I'm eager to collaborate on research and projects involving Data Science, Economics, and Public Policy Evaluation, utilizing econometric analyses (mathematics and statistics) to explain phenomenas.
 - 📫 You can reach me via email at marcus.sampaio@ifrn.edu.br.
