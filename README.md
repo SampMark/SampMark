@@ -1,21 +1,19 @@
-- 👋 Olá! Me chamo Marcus Sampaio, sou economista lotado na Reitoria do [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)](https://portal.ifrn.edu.br/).
-- 👀 Sou entusiasta e tenho grande interesse em estudos no campo de conhecimento da Data Science and Analytics, com foco em análises exploratórias de dados e modelagnes usando machine learn.
-- 🌱 Atualmente, estou aprendendo a programar em Python de modo a aprimorar minhas habilidades em ferramentas e técnicas de visualização de dados, machine learning, deep learning, modelos preditivos, séries temporais, ect.
-- 💞️ Busco colaborar em pesquisas e projetos que envolvam Ciência de Dados, Ciências Econômicas e Avaliação de Políticas Públicas, análises econométricas (matemática e estatística) de modo a estudar fenômenos e problemas complexos.
-- 📫 Meu e-mail: <marcus.sampaio@ifrn.edu.br>
-- 🎓 Lattes: http://lattes.cnpq.br/8602364794945434
-- ⚡ Curiosidade: adoro cães 🐶, este é meu golden retriever surfando com IA, sou apaixonado por caminhadas em meio a natureza.
+👋 Olá! Sou Marcus Sampaio, Economista na Reitoria do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN).
+🧑‍💻 Há alguns meses venho me dedicando com grande interesse ao estudo no campo de conhecimento "_Data Science and Analytics_", 🤓 com foco em análise exploratória de dados e na aplicação de modelos de Machine Learning, Deep Learning e Inteligência Artificial.
+Busco ativamente oportunidades de colaboração em pesquisas e projetos que integrem Ciência de Dados, Ciências Econômicas e Avaliação de Políticas Públicas, entre outras possibilidades.
+Tenho especial interesse em utilizar análises econométricas e estatísticas para investigar e propor soluções para problemas complexos.
+Para mais informações sobre minha trajetória acadêmica e profissional, meu Currículo Lattes🎓 está disponível em [http://lattes.cnpq.br/8602364794945434](http://lattes.cnpq.br/8602364794945434) meu contato é 📫 <marcus.sampaio@ifrn.edu.br>.
+Curiosidade: adoro cães 🐶, este é meu golden retriever surfando na IA, sou apaixonado por caminhadas em meio a natureza.
   
 ![u7922314295_A_realistic_photograph_of_a_golden-coated_Golden__0de8a815-84fc-492e-a7b8-07dee82513bb_0](https://github.com/user-attachments/assets/19bb7a3e-b1d7-4a4c-b924-fe1839bb2128)
 
 ---
 
-- 👋 Hello! I'm @SampMark from Brazil, an economist at [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte](https://portal.ifrn.edu.br/).
-- 👀 I'm passionate about Data Science and Analytics, focusing on exploratory data analysis and machine learning modeling.
-- 🌱 Currently, I'm learning Python programming and enhancing my skills in data visualization tools and techniques, machine learning, and predictive models.
-- 💞️ I'm eager to collaborate on research and projects involving Data Science, Economics, and Public Policy Evaluation, utilizing econometric analyses (mathematics and statistics) to explain phenomenas.
-- 📫 You can reach me via email at marcus.sampaio@ifrn.edu.br.
-- ⚡ Fun fact: I love dogs 🐶 and enjoy hiking in nature.
+👋 Hey there, I'm Marcus Sampaio, an economist working at the Federal Institute of Education, Science and Technology of Rio Grande do Norte – or just IFRN. 
+I'm really into Data Science and Analytics and have been focusing quite a bit on exploratory data analysis and using Machine Learning and Deep Learning models, artificial inteligence.
+Right now, I'm leveling up my Python skills, trying to get better with essential tools and techniques like data visualization, Machine Learning, Deep Learning, predictive models, and time series analysis.
+I'm actively looking for opportunities to team up on research and projects that bring together Data Science, Economics, and Public Policy Evaluation. I'm especially interested in using econometrics and statistics to dive into complex problems and find solutions.
+If you want more info on my academic and professional background, my Lattes profile (a Brazilian academic CV platform) is here: [http://lattes.cnpq.br/8602364794945434](http://lattes.cnpq.br/8602364794945434), and my contact email is  marcus.sampaio@ifrn.edu.br.
 
 <!---
 SampMark/SampMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
