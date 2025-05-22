@@ -37,4 +37,6 @@ SampMark/SampMark is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ---
-<img src="https://github.com/user-attachments/assets/8d25464f-0d04-450d-907c-c932c6fef15e" alt="Badge IBM" width="150" style="border: none;">
+<img src="https://github.com/user-attachments/assets/8d25464f-0d04-450d-907c-c932c6fef15e" alt="Badge IBM" width="180" style="border: none;">
+
+<img src="https://github.com/user-attachments/assets/ce04e8a9-7a47-44b7-a13e-a132f8531af4" alt="edX_20Advanced_20Deep_20Learning_20Specialist" width="180" style="border: none;">
