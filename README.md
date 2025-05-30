@@ -14,7 +14,9 @@
 
 ----
   
-![u7922314295_A_realistic_photograph_of_a_golden-coated_Golden__0de8a815-84fc-492e-a7b8-07dee82513bb_0](https://github.com/user-attachments/assets/19bb7a3e-b1d7-4a4c-b924-fe1839bb2128)
+![u7922314295_My golden retriever hypothetically surfing_0de8a815-84fc-492e-a7b8-07dee82513bb_0](https://github.com/user-attachments/assets/19bb7a3e-b1d7-4a4c-b924-fe1839bb2128)
+
+https://github.com/user-attachments/assets/07eaa79a-8743-4ce2-9df6-d9d5840f12d5
 
 ----
 
