@@ -2,6 +2,7 @@
 
 # Marcus Sampaio
 **Economist & Data Analytics Specialist** | *Reitoria — Instituto Federal do Rio Grande do Norte (IFRN)*
+*Coordenação-Geral de Pesquisa, Diagnósticos e Análises Estatísticas (CGPDAE)
 
 **Economics · Data Science · Public Policy Analytics**
 
@@ -21,9 +22,9 @@ statistical analysis and public policy evaluation.
 
 ### 👨‍💻 Sobre mim
 
-Economista com mestrado e atuação na área de Gestão em Pesquisa Educacional e Avaliação Institucional no IFRN. Meu trabalho combina **análise econométrica**, **avaliação de políticas públicas** e **engenharia de dados** para subsidiar tomadas de decisão baseadas em evidências.
+Formação em Ciências Econômicas e mestrado em Economia Regional, e bacharelado em Gestão de Políticas Públicas. Atuação na área de pesquisas e análises de dados para fins de avaliação de políticas públicas. Meu trabalho combina **análise econométrica**, **avaliação de políticas públicas** e **ciência de dados** para subsidiar tomadas de decisão baseadas em evidências.
 
-Tenho foco no desenvolvimento de pipelines de dados resilientes, automação de processos analíticos (ETL) e aplicação de métodos quantitativos e de machine learning para responder a problemas complexos no setor educacional e governamental.
+Tenho foco no desenvolvimento de *pipelines* para tratamento de dados, automação de processos analíticos (ETL) e aplicação de métodos quantitativos e de machine learning para responder a problemas complexos no setor educacional e governamental.
 
 ---
 
