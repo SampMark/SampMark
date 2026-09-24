@@ -1,44 +1,64 @@
-👋 Olá! Sou **Marcus Sampaio**, Economista na Reitoria do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), cidade de Natal.
+<div align="center">
 
-🧑‍💻 Há alguns meses venho me dedicando com grande interesse ao estudo no campo de conhecimento "_Data Science and Analytics_"! 🤓
+# Marcus Sampaio
+**Economist & Data Analytics Specialist** | *Reitoria — Instituto Federal do Rio Grande do Norte (IFRN)*
 
-🎯 Foco em análise de dados e na aplicação de modelos de Machine Learning e Deep Learning, e Inteligência Artificial.🚀🛰️
+**Economics · Data Science · Public Policy Analytics**
 
-🤓 Busco ativamente oportunidades de colaboração em pesquisas e projetos que integrem Ciência de Dados, Ciências Econômicas e Avaliação de Políticas Públicas, entre outras possibilidades.
+I work at the intersection of economics, data engineering,
+statistical analysis and public policy evaluation.
 
-✨ Tenho especial interesse por  análises econométricas e estatísticas para investigar e propor soluções para problemas complexos.💲
+`Python` · `SQL` · `BigQuery` · `Superset` · `Looker Studio`
+· `Machine Learning` · `Econometrics`
 
-🎓 Para mais informações sobre minha trajetória acadêmica e profissional, meu Currículo Lattes está disponível em [http://lattes.cnpq.br/8602364794945434](http://lattes.cnpq.br/8602364794945434) meu contato é 📫 <marcus.sampaio@ifrn.edu.br>.
+</div>
 
-🚵 Curiosidade: adoro cães 🐶, este é meu golden retriever surfando na IA, sou apaixonado por caminhadas em meio a natureza.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-sampaio-ifrn/)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-CNPq-blue?style=flat-square)](http://lattes.cnpq.br/8602364794945434)
+[![Email](https://img.shields.io/badge/Contact-marcus.sampaio@ifrn.edu.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcus.sampaio@ifrn.edu.br)
 
-----
-  
-![u7922314295_My golden retriever hypothetically surfing_0de8a815-84fc-492e-a7b8-07dee82513bb_0](https://github.com/user-attachments/assets/19bb7a3e-b1d7-4a4c-b924-fe1839bb2128)
-
-https://github.com/user-attachments/assets/07eaa79a-8743-4ce2-9df6-d9d5840f12d5
-
-----
-
-👋 Hey there\! I'm Marcus Sampaio, an Economist working at the main office (Reitoria) of the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN), right here in Natal.
-
-🧑‍💻 For the past few months, I've been really diving into the whole field of "*Data Science and Analytics*" 🤓, and I'm super interested in it\!
-
-🎯 My main focus is on data analysis and applying models like Machine Learning, Deep Learning, and Artificial Intelligence. 🚀🛰️
-
-🤓 I'm actively looking for opportunities to collaborate on research and projects that bring together Data Science, Economics, and Public Policy Evaluation, among other cool possibilities.
-
-✨ I get particularly excited about using econometric and statistical analysis to dig into complex problems and come up with solutions. 💲
-
-🎓 If you want to know more about my academic and professional background, my Lattes CV (it's a Brazilian academic platform) is available right here: [http://lattes.cnpq.br/8602364794945434](http://lattes.cnpq.br/8602364794945434). You can reach me at 📫 <marcus.sampaio@ifrn.edu.br>.
-
-🚵 Fun fact: I absolutely love dogs 🐶 (this is my golden retriever "surfing" thanks to AI\!), and I'm passionate about hiking out in nature.
-
-<!---
-SampMark/SampMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ---
-<img src="https://github.com/user-attachments/assets/8d25464f-0d04-450d-907c-c932c6fef15e" alt="Badge IBM" width="180" style="border: none;">
 
-<img src="https://github.com/user-attachments/assets/ce04e8a9-7a47-44b7-a13e-a132f8531af4" alt="edX_20Advanced_20Deep_20Learning_20Specialist" width="180" style="border: none;">
+### 👨‍💻 Sobre mim
+
+Economista com mestrado e atuação na área de Gestão em Pesquisa Educacional e Avaliação Institucional no IFRN. Meu trabalho combina **análise econométrica**, **avaliação de políticas públicas** e **engenharia de dados** para subsidiar tomadas de decisão baseadas em evidências.
+
+Tenho foco no desenvolvimento de pipelines de dados resilientes, automação de processos analíticos (ETL) e aplicação de métodos quantitativos e de machine learning para responder a problemas complexos no setor educacional e governamental.
+
+---
+
+### 🛠️ Competências & Tecnologias
+
+- **Linguagens & Core:** Python, SQL, Zig, Bash
+- **Data Engineering & Big Data:** Pipelines ETL/ELT, Google BigQuery, Apache Spark (PySpark), Hadoop, Integração de APIs REST (autenticação JWT, governança e LGPD)
+- **Data Science & Econometria:** Pandas, NumPy, Scikit-Learn, Séries Temporais, Modelagem Econométrica e Causal
+- **Business Intelligence & Visualização:** Looker Studio, Google Sheets Automation, Matplotlib, Seaborn
+- **Práticas de Desenvolvimento:** Git, Docker, Refatoração, Modularidade e CI/CD
+
+---
+
+### 📌 Focos de Pesquisa & Projetos em Destaque
+
+- **Pipelines de Dados Institucionais & Governança:** Construção e refatoração de fluxos ETL para consolidação de bases de grande porte (SUAP, PlaforEDU, PNP/MEC), com deduplicação, normalização e anonimização de dados.
+- **Ambientes de Big Data & Processamento Distribuído:** Avaliação arquitetural, benchmarking e testes operacionais em ecossistemas Spark/Hadoop para processamento paralelo.
+- **Avaliação de Políticas Públicas e Eficiência Acadêmica:** Aplicação de indicadores e métricas quantitativas (SINAES/CPA) na gestão educacional pública.
+
+---
+
+### 📜 Certificações & Qualificações
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8d25464f-0d04-450d-907c-c932c6fef15e" alt="IBM Credential" width="140" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ce04e8a9-7a47-44b7-a13e-a132f8531af4" alt="edX Advanced Deep Learning Specialist" width="140" />
+</p>
+
+---
+
+### 🤝 Colaborações & Contato
+
+Interessado em colaborações acadêmicas e projetos de pesquisa aplicada na interface entre **Economia, Ciência de Dados e Políticas Públicas**.
+
+- **Email Institucional:** [marcus.sampaio@ifrn.edu.br](mailto:marcus.sampaio@ifrn.edu.br)
+- **LinkedIn:** [linkedin.com/in/marcus-sampaio-ifrn](https://www.linkedin.com/in/marcus-sampaio-ifrn/)
+- **Currículo Lattes:** [lattes.cnpq.br/8602364794945434](http://lattes.cnpq.br/8602364794945434)
