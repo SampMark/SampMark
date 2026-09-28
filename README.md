@@ -16,7 +16,7 @@
 
 <br />
 
-**[ 🇧🇷 Versão em Português ](##-🇧🇷-Português)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](##-🇺🇸-English)**
+**[ 🇧🇷 Versão em Português ](##🇧🇷-Português)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](##🇺🇸-English)**
 
 </div>
 
