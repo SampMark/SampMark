@@ -17,7 +17,7 @@
 
 <br />
 
-**[ 🇧🇷 Versão em Português ](##Português-🇧🇷)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](##English-🇺🇸)**
+**[ 🇧🇷 Versão em Português ](##portugues)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](english)**
 
 </div>
 
@@ -43,7 +43,7 @@
 - **DevOps & Boas Práticas:** Git, Docker, Refatoração, Modularidade e CI/CD
 
 ---
-
+<a id="portugues"></a>
 ## Português 🇧🇷
 
 ### 👨‍💻 Sobre mim
@@ -67,7 +67,7 @@ Interessado em colaborações acadêmicas e projetos de pesquisa aplicada na int
 - **Currículo Lattes:** [lattes.cnpq.br/8602364794945434](http://lattes.cnpq.br/8602364794945434)
 
 ---
-
+<a id="english"></a>
 ## English 🇺🇸
 
 ### 👨‍💻 About Me
