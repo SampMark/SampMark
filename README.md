@@ -1,3 +1,4 @@
+<a id="topo"></a>
 <div align="center">
 
 # Marcus Sampaio
@@ -16,7 +17,7 @@
 
 <br />
 
-**[ 🇧🇷 Versão em Português ](##🇧🇷-Português)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](##🇺🇸-English)**
+**[ 🇧🇷 Versão em Português ](##Português-🇧🇷)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](##English-🇺🇸)**
 
 </div>
 
@@ -43,7 +44,7 @@
 
 ---
 
-## 🇧🇷 Português
+## Português 🇧🇷
 
 ### 👨‍💻 Sobre mim
 
@@ -67,7 +68,7 @@ Interessado em colaborações acadêmicas e projetos de pesquisa aplicada na int
 
 ---
 
-## 🇺🇸 English
+## English 🇺🇸
 
 ### 👨‍💻 About Me
 
@@ -99,4 +100,5 @@ Open to academic collaborations and applied research projects at the intersectio
   <img src="https://github.com/user-attachments/assets/ce04e8a9-7a47-44b7-a13e-a132f8531af4" alt="edX Advanced Deep Learning Specialist" width="140" />
 </p>
 
+[↑ Voltar ao topo](#topo)
 ---
