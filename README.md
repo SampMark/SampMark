@@ -17,7 +17,7 @@
 
 <br />
 
-**[ 🇧🇷 Versão em Português ](##portugues)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](english)**
+**[ 🇧🇷 Versão em Português ](##portugues-🇧🇷)** &nbsp;•&nbsp; **[ 🇺🇸 English Version ](##english-🇺🇸)**
 
 </div>
 
@@ -36,14 +36,14 @@
   <img src="https://img.shields.io/badge/Econometrics-2D3748?style=for-the-badge&logo=graph&logoColor=white" alt="Econometrics" />
 </p>
 
-- **Linguagens / Core:** Python, SQL, Zig, Bash
-- **Engenharia de Dados / Data Engineering:** Pipelines ETL/ELT, Google BigQuery, Apache Spark (PySpark), Hadoop, REST APIs (autenticação JWT, governança e LGPD)
+- **Linguagens / Core:** Python, SQL
+- **Engenharia de Dados / Data Engineering:** Pipelines ETL/ELT, Google BigQuery, Apache Spark (PySpark), Hadoop, REST APIs
 - **Ciência de Dados / Data Science:** Pandas, NumPy, Scikit-Learn, Séries Temporais, Modelagem Econométrica e Inferência Causal
 - **BI & Visualização / Analytics:** Looker Studio, Apache Superset, Automação Google Sheets, Matplotlib, Seaborn
-- **DevOps & Boas Práticas:** Git, Docker, Refatoração, Modularidade e CI/CD
+- **DevOps & Boas Práticas:** Git, Docker, Refatoração e Modularidade
 
 ---
-<a id="portugues"></a>
+
 ## Português 🇧🇷
 
 ### 👨‍💻 Sobre mim
